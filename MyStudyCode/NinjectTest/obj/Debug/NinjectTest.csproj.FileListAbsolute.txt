@@ -95,8 +95,14 @@ E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\ko\System.Spatial.resou
 E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\ru\System.Spatial.resources.dll
 E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\zh-Hans\System.Spatial.resources.dll
 E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\zh-Hant\System.Spatial.resources.dll
-E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\obj\Debug\NinjectTest.csprojResolveAssemblyReference.cache
 E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\obj\Debug\NinjectTest.dll
 E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\obj\Debug\NinjectTest.pdb
 E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\Ninject.dll
 E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\Ninject.xml
+E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\log4net.dll
+E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\Org.Mentalis.Security.Cryptography.dll
+E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\Mono.Math.dll
+E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\log4net.pdb
+E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\log4net.xml
+E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\Org.Mentalis.Security.Cryptography.xml
+E:\DJIWork\MyGitCode\MyCodes\MyStudyCode\NinjectTest\bin\Mono.Math.xml

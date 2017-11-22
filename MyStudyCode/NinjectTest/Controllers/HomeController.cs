@@ -4,7 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using NinjectTest.Ninject;
-using Ninject;      //引入ninject。
+using Ninject;
+using NinjectTest.Helper;      //引入ninject。
 
 namespace NinjectTest.Controllers
 {
@@ -17,6 +18,8 @@ namespace NinjectTest.Controllers
             IKernel ninjectKernel = new StandardKernel();
             ninjectKernel.Bind<IMessageProvider>().To<NinjectMessage>();
             this._messageProvider = ninjectKernel.Get<IMessageProvider>();
+
+            LogHelper.WriteLog(typeof(HomeController), "依赖注入了");
         }
 
         public HomeController(IMessageProvider messageProvider)
